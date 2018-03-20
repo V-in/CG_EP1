@@ -5,7 +5,7 @@
 # Utilização
 ## Triangulos
 	./cgprog <v1.x> <v1.y> <v1.r> <v1.g> <v1.b> <v2.x> <v2.y> <v2.r> <v2.g> <v2.b> <v3.x> <v3.y> <v3.r> <v3.g> <v3.b> 
-	![alt text](https://github.com/V-in/CG_EP1/blob/master/Screenshots/triangle.png "Triangles")
+![image](https://github.com/V-in/CG_EP1/blob/master/Screenshots/triangle.png)
 ## Linhas
 	./cgprog <NUMERO DE LINHAS POR DIRECAO>
-	![alt text](https://github.com/V-in/CG_EP1/blob/master/Screenshots/lines.png "Lines")
+![image](https://github.com/V-in/CG_EP1/blob/master/Screenshots/lines.png)
