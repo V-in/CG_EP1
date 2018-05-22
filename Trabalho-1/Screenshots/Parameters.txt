@@ -1,0 +1,2 @@
+triangle: cgprog 30 30 255 0 0 400 30 0 255 0 256 256 255 255 255 
+lines: cgprog 4
