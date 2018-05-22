@@ -29,7 +29,7 @@ void Object::draw(){
     glBindVertexArray(VAO);
     glBindBuffer(GL_ARRAY_BUFFER, VBO);
     glUseProgram(shaderProgram);
-	glDrawArrays(GL_LINE_STRIP, 0, mesh.vertices.size());
+	glDrawArrays(GL_TRIANGLES, 0, mesh.vertices.size());
 }
 
 void Object::setUpAttributes(){
